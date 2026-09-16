@@ -1,5 +1,5 @@
 💫 Hi 👋, I'm Rohit Singh
-A passionate Full Stack Developer || AI Engineer || 
+a passionate about Full Stack Developer || AI Engineer || 
 
 Email Me 👉 ✉️ rs9544897@gmail.com For Collaboration/Project or Anything Else. 😊😊
 

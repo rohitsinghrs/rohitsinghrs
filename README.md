@@ -3,10 +3,7 @@ a passionate about Full Stack Developer || AI Engineer ||
 
 Email Me 👉 ✉️ rs9544897@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
-🔭 I’m currently working on: 
-🌱 I’m currently learning: Data Structure and algorithm
-👯 I’m looking to collaborate on: Enter your project name and info
-🤔 I’m looking for help with: Your project here
+🔭 I’m currently working on: Full Stack Developer, Data Structure and algorithm
 💬 Ask me about: Collaboration, Tech Support
 📫 How to reach me: rs9544897@gmail.com
 😄 Pronouns: Rohit 

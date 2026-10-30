@@ -1,17 +1,22 @@
-💫 Hi 👋, I'm Rohit Singh
-a passionate about Full Stack Developer || AI Engineer || 
+# 💫 Hi 👋, I'm Rohit Singh
 
-Email Me 👉 ✉️ rs9544897@gmail.com For Collaboration/Project or Anything Else. 😊😊
+A passionate **Full-Stack Developer & AI Engineer** dedicated to building scalable web applications and intelligent systems.
 
-🔭 I’m currently working on: Full Stack Developer, Data Structure and algorithm
-💬 Ask me about: Collaboration, Tech Support.
-📫 How to reach me: rs9544897@gmail.com
-😄 Pronouns: Rohit 
-⚡ Fun fact: I Love Tech and Tech Love Me
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+### 📌 About Me
+- 🔭 **Focus:** Full-Stack Development, Data Structures & Algorithms
+- 💬 **Ask me about:** Web Technologies, AI Integrations, Open Source Collaboration
+- 📫 **Contact:** [rs9544897@gmail.com](mailto:rs9544897@gmail.com)
+- ⚡ **Fun fact:** I love tech, and tech loves me.
 
+---
+
+### 🌐 Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/rohit-singh-2b195a289" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:rs9544897@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 
 ## 🌐 Socials:

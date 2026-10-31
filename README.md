@@ -1,44 +1,117 @@
-# 💫 Hi 👋, I'm Rohit Singh
+# 👋 Hi, I'm Rohit Singh
 
-<h3 align="center">🚀 Full Stack Developer | AI Engineer | SQL Enthusiast | Problem Solver</h3>
+<h3 align="center">Full-Stack Developer | AI Engineer | Problem Solver</h3>
 
-# 💫 About Me:
+<p align="center">
+  Building scalable web applications and intelligent AI-powered solutions.
+</p>
 
-<table>
-<tr>
-<td>
-
-<ul>
-<li>🎓 B.Tech Computer Science Engineering Student</li>
-<li>🌱 Currently learning Full Stack Development, AI/ML & Backend Development</li>
-<li>💡 Interested in Data Structures & Algorithms, SQL and Problem Solving</li>
-<li>🤖 Building AI-powered applications and intelligent systems</li>
-<li>💻 Experienced with Python, Java, SQL, React, Next.js and FastAPI</li>
-<li>🔍 Interested in Artificial Intelligence, Data Engineering & Web Development</li>
-<li>🤝 Open to internships, open-source contributions & collaborations</li>
-<li>📫 Reach me at: <a href="mailto:rs9544897@gmail.com">rs9544897@gmail.com</a></li>
-</ul>
-
-</td>
-
-<td>
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RidnlncGljNXJncnBpdnkxOXd1MWF3Y2E2enZvNGNuZWZqb2NieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-</td>
-
-</tr>
-</table>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
+<p align="center">
+  <a href="mailto:rs9544897@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
-### ⚡ Fun Fact
-I love turning innovative ideas into real-world tech solutions! 🚀
+## 🚀 About Me
 
-### 🌐 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/rohit-singh-2b195a289" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:rs9544897@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+- 🎓 Computer Science Engineering student passionate about technology and innovation.
+- 💻 Interested in Full-Stack Development, Backend Engineering and Artificial Intelligence.
+- 🤖 Building intelligent applications using AI/ML and modern development technologies.
+- 🧠 Strengthening problem-solving skills through Data Structures & Algorithms.
+- 📊 Exploring SQL, Data Engineering and database management.
+- 🌱 Continuously learning and turning ideas into practical projects.
+- 🤝 Open to internships, collaborations and open-source contributions.
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
+</p>
+
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+### Backend Development & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mysql,mongodb" />
+</p>
+
+### AI / ML & Data Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+</p>
+
+---
+
+## 💡 Featured Projects
+
+### 👕 V-Fit AI
+AI-powered virtual try-on and personalized fashion recommendation platform.
+
+**Tech Stack:** Next.js, React, FastAPI, PostgreSQL, AI/ML
+
+### 🌊 FloatChat – AI-Powered ARGO Ocean Data Discovery
+An intelligent conversational interface for exploring and visualizing ARGO oceanographic data.
+
+**Tech Stack:** Python, PostgreSQL, RAG, ChromaDB, Streamlit
+
+### ♻️ AI WasteWise
+An AI-powered waste classification system that classifies waste images into different categories.
+
+**Tech Stack:** Python, TensorFlow, MobileNetV2, Streamlit
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- Building production-ready Full-Stack applications.
+- Exploring AI Engineering and LLM-based applications.
+- Improving DSA and SQL problem-solving skills.
+- Learning scalable backend architecture and database optimization.
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="mailto:rs9544897@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>"Code. Learn. Build. Repeat. 🚀"</i>
 </p>
 
 ## 🌐 Socials:

@@ -15,19 +15,26 @@
   </a>
 </p>
 
----
-
 ## 🚀 About Me
 
-- 🎓 Computer Science Engineering student passionate about technology and innovation.
-- 💻 Interested in Full-Stack Development, Backend Engineering and Artificial Intelligence.
-- 🤖 Building intelligent applications using AI/ML and modern development technologies.
-- 🧠 Strengthening problem-solving skills through Data Structures & Algorithms.
-- 📊 Exploring SQL, Data Engineering and database management.
-- 🌱 Continuously learning and turning ideas into practical projects.
+<table>
+<tr>
+<td width="60%" valign="center">
+
+- 🎓 Computer Science Engineering Student.
+- 💻 Passionate about Full-Stack Development and Backend Engineering.
+- 🤖 Exploring AI/ML, LLMs and intelligent application development.
+- 🧠 Practicing Data Structures & Algorithms to improve problem-solving skills.
+- 📊 Interested in SQL, Data Engineering and Database Management.
+- 🌱 Always learning and building real-world projects.
 - 🤝 Open to internships, collaborations and open-source contributions.
 
----
+</td>
+<td width="40%" align="center">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RidnlncGljNXJncnBpdnkxOXd1MWF3Y2E2enZvNGNuZWZqb2NieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Developer coding animation"/>
+</td>
+</tr>
+</table>
 
 ## 🛠️ Tech Stack
 

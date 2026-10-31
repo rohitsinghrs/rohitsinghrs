@@ -88,7 +88,7 @@ I'm a Computer Science Engineering student passionate about building modern web 
 
 ## 💡 Featured Projects
 
-### 👕 1. V-Fit AI — AI-Powered Virtual Fashion Platform
+### 👕 1. V-Fit AI — AI-Powered Virtual Fashion Platform - Ongoing.....
 
 An AI-powered virtual try-on and personalized fashion recommendation platform designed to enhance the online shopping experience.
 
@@ -116,7 +116,7 @@ An AI-powered virtual try-on and personalized fashion recommendation platform de
 **🛠️ Tech Stack:** Next.js, React, FastAPI, Python, PostgreSQL, AI/ML.
 
 
-### ♻️ 3. AI WasteWise — Intelligent Waste Classification
+### ♻️ 2. AI WasteWise — Intelligent Waste Classification
 
 An AI-powered image classification application that identifies different types of waste to support smarter waste segregation.
 
@@ -141,36 +141,6 @@ An AI-powered image classification application that identifies different types o
 - Interactive Streamlit application.
 
 **🛠️ Tech Stack:** Python, TensorFlow, MobileNetV2, Machine Learning, Streamlit.
-
-
-### 🌊 2. FloatChat — AI-Powered ARGO Ocean Data Discovery
-
-An intelligent conversational interface that enables users to explore, query and visualize oceanographic data collected through the ARGO ocean observation system.
-
-**🔗 Project Links:**
-- 💻 [GitHub Repository](YOUR_FLOATCHAT_REPOSITORY_LINK)
-- 🌐 [Live Demo](YOUR_FLOATCHAT_LIVE_DEMO_LINK)
-
-**⚙️ Working Flow:**
-
-1. **Data Collection:** ARGO oceanographic datasets are collected from available data sources.
-2. **Data Processing:** NetCDF/CSV data is processed and transformed into a structured format.
-3. **Database Storage:** Processed oceanographic measurements are stored in PostgreSQL.
-4. **User Query:** Users ask questions about oceanographic data using natural language.
-5. **Query Understanding:** The system interprets the user's question and identifies the required information.
-6. **Data Retrieval:** SQL queries and semantic search retrieve relevant oceanographic information.
-7. **AI Response Generation:** RAG retrieves relevant context and helps generate meaningful responses.
-8. **Visualization:** Results are presented through interactive charts, maps and data visualizations.
-
-**✨ Key Features:**
-- Natural language interaction with oceanographic data.
-- Retrieval-Augmented Generation (RAG).
-- Semantic search using ChromaDB.
-- PostgreSQL database integration.
-- Interactive ocean data visualization.
-- Location-based ARGO data exploration.
-
-**🛠️ Tech Stack:** Python, PostgreSQL, RAG, ChromaDB, Streamlit, Plotly, LLMs.
 
 ---
 

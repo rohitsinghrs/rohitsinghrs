@@ -1,16 +1,39 @@
 # 💫 Hi 👋, I'm Rohit Singh
 
-A passionate **Full-Stack Developer & AI Engineer** dedicated to building scalable web applications and intelligent systems.
+<h3 align="center">🚀 Full Stack Developer | AI Engineer | SQL Enthusiast | Problem Solver</h3>
+
+# 💫 About Me:
+
+<table>
+<tr>
+<td>
+
+<ul>
+<li>🎓 B.Tech Computer Science Engineering Student</li>
+<li>🌱 Currently learning Full Stack Development, AI/ML & Backend Development</li>
+<li>💡 Interested in Data Structures & Algorithms, SQL and Problem Solving</li>
+<li>🤖 Building AI-powered applications and intelligent systems</li>
+<li>💻 Experienced with Python, Java, SQL, React, Next.js and FastAPI</li>
+<li>🔍 Interested in Artificial Intelligence, Data Engineering & Web Development</li>
+<li>🤝 Open to internships, open-source contributions & collaborations</li>
+<li>📫 Reach me at: <a href="mailto:rs9544897@gmail.com">rs9544897@gmail.com</a></li>
+</ul>
+
+</td>
+
+<td>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RidnlncGljNXJncnBpdnkxOXd1MWF3Y2E2enZvNGNuZWZqb2NieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</td>
+
+</tr>
+</table>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
 
 ---
 
-### 📌 About Me
-- 🔭 **Focus:** Full-Stack Development, Data Structures & Algorithms
-- 💬 **Ask me about:** Web Technologies, AI Integrations, Open Source Collaboration
-- 📫 **Contact:** [rs9544897@gmail.com](mailto:rs9544897@gmail.com)
-- ⚡ **Fun fact:** I love tech, and tech loves me.
-
----
+### ⚡ Fun Fact
+I love turning innovative ideas into real-world tech solutions! 🚀
 
 ### 🌐 Connect With Me
 <p align="left">

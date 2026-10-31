@@ -1,186 +1,211 @@
-# Hi, I'm Rohit Singh 👋
+# 👋 Hi, I'm Rohit Singh
 
-### Full-Stack Developer | AI Engineer | Problem Solver
+<h3 align="center">Full-Stack Developer | AI Engineer | Aspiring Data Engineer</h3>
 
-<p align="left">
-  <a href="https://linkedin.com/in/rohit-singh-2b195a289">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;Exploring+Artificial+Intelligence;Developing+Intelligent+AI+Solutions;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <a href="mailto:rs9544897@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/Rohit_leetcoder1/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  <a href="https://linkedin.com/in/rohit-singh-2b195a289">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/rohitsinghrs">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
 <table>
-  <tr>
-    <td width="65%">
-      <ul>
-        <li>🎓 B.Tech Computer Science and Engineering student at <b>Ajay Kumar Garg Engineering College, Ghaziabad, Uttar Pradesh</b>.</li>
-        <li>💻 Interested in Full-Stack Development, Artificial Intelligence, and Data Engineering.</li>
-        <li>🤖 Building projects that combine software development with AI-powered solutions.</li>
-        <li>🧠 Practicing Data Structures & Algorithms and SQL to strengthen problem-solving skills.</li>
-        <li>🌱 Continuously learning, experimenting, and improving through hands-on projects.</li>
-        <li>🎯 Focused on writing clean code and building practical, user-focused applications.</li>
-      </ul>
-    </td>
-    <td width="35%" align="center">
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RidnlncGljNXJncnBpdnkxOXd1MWF3Y2E2enZvNGNuZWZqb2NieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer coding animation"/>
-    </td>
-  </tr>
+<tr>
+<td width="60%" valign="center">
+
+I'm a Computer Science Engineering student passionate about building modern web applications and intelligent software solutions.
+
+- 🎓 Computer Science Engineering Student.
+- 💻 Interested in Full-Stack & Backend Development.
+- 🤖 Exploring Artificial Intelligence, Machine Learning and LLMs.
+- 🧠 Practicing Data Structures & Algorithms.
+- 📊 Interested in SQL, Data Engineering and Database Systems.
+- 🔨 Building practical projects using modern technologies.
+- 🌱 Always learning, experimenting and improving.
+- 🤝 Open to internships, collaborations and open-source opportunities.
+
+</td>
+<td width="40%" align="center">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RidnlncGljNXJncnBpdnkxOXd1MWF3Y2E2enZvNGNuZWZqb2NieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Developer coding animation"/>
+</td>
+</tr>
 </table>
 
-## 🛠️ Tech Stack
+---
+
+## 🛠️ Technical Skills
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" alt="Programming languages"/>
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
 </p>
 
 ### Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend technologies"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
 </p>
 
 ### Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs" alt="Backend technologies"/>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
 </p>
 
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="Databases"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 </p>
 
-### AI, Machine Learning & Data
+### AI / ML & Data Science
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" alt="AI and machine learning tools"/>
-  <br/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" alt="Plotly"/>
-  <img src="https://img.shields.io/badge/ChromaDB-Database-5A45FF?style=flat" alt="ChromaDB"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 </p>
 
-### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" alt="Development tools"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
 </p>
 
-## 🚀 Featured Projects
-
-### 👗 V-Fit AI — AI-Powered Virtual Try-On & Fashion Platform
-An AI-driven fashion platform concept focused on helping users explore clothing, virtual try-on experiences, and personalized style recommendations.
-
-**Tech Stack:** Next.js, React, FastAPI, PostgreSQL
-
-**Focus Areas:**
-- Full-stack application development.
-- Frontend and backend integration.
-- Database design and API development.
-- AI-powered fashion and personalization features.
-
-### 🌊 FloatChat — AI-Powered ARGO Ocean Data Discovery
-A conversational interface concept for exploring and visualizing ARGO oceanographic data, developed around SIH 2025 Problem Statement 25040.
-
-**Tech Stack:** Python, PostgreSQL, ChromaDB, RAG, Streamlit, Plotly
-
-**Focus Areas:**
-- Oceanographic data processing and querying.
-- Retrieval-Augmented Generation (RAG).
-- Vector database integration.
-- Interactive data visualization.
-
-### ♻️ AI WasteWise — Waste Classification Using Deep Learning
-An image-classification project designed to classify waste into six categories using a deep learning model.
-
-**Tech Stack:** Python, TensorFlow, MobileNetV2, Streamlit
-
-**Focus Areas:**
-- Image preprocessing and dataset preparation.
-- Transfer learning with MobileNetV2.
-- Six-class waste image classification.
-- Model evaluation and application development.
+### Developer Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+</p>
 
 ---
 
-## 📊 GitHub Statistics
+## 💡 Featured Projects
+
+### 👕 1. V-Fit AI — AI-Powered Virtual Fashion Platform
+
+An AI-powered virtual try-on and personalized fashion recommendation platform designed to enhance the online shopping experience.
+
+**Key Features & Goals:**
+- Virtual clothing try-on experience.
+- AI-based style and fashion recommendations.
+- User authentication and profile management.
+- Product and shopping experience integration.
+- Interactive AI-powered assistance.
+
+**Tech Stack:** Next.js, React, FastAPI, Python, PostgreSQL, AI/ML.
+
+---
+
+### 🌊 2. FloatChat — AI-Powered ARGO Ocean Data Discovery
+
+An intelligent conversational interface that enables users to explore, query and visualize oceanographic data collected through the ARGO ocean observation system.
+
+**Key Features & Goals:**
+- Natural language interaction with oceanographic data.
+- Retrieval-Augmented Generation (RAG).
+- Vector-based semantic search using ChromaDB.
+- Database integration and data visualization.
+- Exploration of ARGO ocean datasets.
+
+**Tech Stack:** Python, PostgreSQL, RAG, ChromaDB, Streamlit, Plotly.
+
+---
+
+### ♻️ 3. AI WasteWise — Intelligent Waste Classification
+
+An AI-powered image classification application that identifies different types of waste to support smarter waste segregation.
+
+**Key Features:**
+- Image-based waste classification.
+- Six waste categories: Cardboard, Glass, Metal, Paper, Plastic and Trash.
+- MobileNetV2-based transfer learning.
+- Image preprocessing and model evaluation.
+- Interactive application interface.
+
+**Tech Stack:** Python, TensorFlow, MobileNetV2, Machine Learning, Streamlit.
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rohitsinghrs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rohit's GitHub statistics"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=rohitsinghrs&theme=tokyonight&hide_border=true" alt="Rohit's GitHub streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitsinghrs&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsinghrs&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsinghrs&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
+  <img src="https://streak-stats.demolab.com/?user=rohitsinghrs&theme=tokyonight&hide_border=true" />
 </p>
+
+---
 
 ## 📈 Contribution Overview
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitsinghrs&theme=tokyonight" alt="GitHub contribution summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitsinghrs&theme=tokyonight" />
 </p>
 
-## 🧩 LeetCode
-
-<p align="left">
-  <a href="https://leetcode.com/u/Rohit_leetcoder1/">
-    <img src="https://img.shields.io/badge/LeetCode-Rohit__leetcoder1-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode profile"/>
-  </a>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohitsinghrs&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohitsinghrs&theme=tokyonight&utcOffset=5.5" />
 </p>
 
-Practicing Data Structures & Algorithms and SQL to improve problem-solving, logical thinking, and coding efficiency.
+---
 
-## 🎯 Currently Focusing On
+## 🏆 GitHub Achievements
 
-- Strengthening Data Structures & Algorithms.
-- Practicing SQL and database concepts.
-- Building full-stack applications using modern technologies.
-- Exploring AI, Machine Learning, and RAG-based applications.
-- Improving software development and problem-solving skills.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rohitsinghrs&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</p>
 
-## 🤝 Connect With Me
+---
 
-<p align="left">
+## 🎯 Current Focus
+
+- 🚀 Developing scalable full-stack applications.
+- 🤖 Exploring LLMs, RAG and AI-powered applications.
+- 🧠 Improving Data Structures & Algorithms.
+- 📊 Strengthening SQL and database management skills.
+- ⚙️ Learning backend architecture and API development.
+- 🌐 Exploring cloud technologies and deployment.
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
   <a href="https://linkedin.com/in/rohit-singh-2b195a289">
-    <img src="https://img.shields.io/badge/LinkedIn-Rohit%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:rs9544897@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-rs9544897%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/_rohit.singh8?igsh=ZnFiOWU0aWFqeHgw">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/share/1imXXn57Qp/">
-    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/channel/UCg1Uv91_wW2SHKTqTf0C5FA">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/Rohit_leetcoder1/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  <a href="mailto:rs9544897@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohitsinghrs&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=rohitsinghrs&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="center">
-  <i>“Building, learning, and improving — one commit at a time.”</i>
-</p>
+<h3 align="center">💻 Code. Learn. Build. Innovate. 🚀</h3>
 
 <p align="center">
-  ⭐ From <a href="https://github.com/rohitsinghrs">Rohit Singh</a>
+  <i>Always curious. Always building. Always growing.</i>
 </p>

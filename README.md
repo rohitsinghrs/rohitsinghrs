@@ -103,21 +103,6 @@ An AI-powered virtual try-on and personalized fashion recommendation platform de
 
 ---
 
-### 🌊 2. FloatChat — AI-Powered ARGO Ocean Data Discovery
-
-An intelligent conversational interface that enables users to explore, query and visualize oceanographic data collected through the ARGO ocean observation system.
-
-**Key Features & Goals:**
-- Natural language interaction with oceanographic data.
-- Retrieval-Augmented Generation (RAG).
-- Vector-based semantic search using ChromaDB.
-- Database integration and data visualization.
-- Exploration of ARGO ocean datasets.
-
-**Tech Stack:** Python, PostgreSQL, RAG, ChromaDB, Streamlit, Plotly.
-
----
-
 ### ♻️ 3. AI WasteWise — Intelligent Waste Classification
 
 An AI-powered image classification application that identifies different types of waste to support smarter waste segregation.
@@ -130,6 +115,21 @@ An AI-powered image classification application that identifies different types o
 - Interactive application interface.
 
 **Tech Stack:** Python, TensorFlow, MobileNetV2, Machine Learning, Streamlit.
+
+---
+
+### 🌊 2. FloatChat — AI-Powered ARGO Ocean Data Discovery
+
+An intelligent conversational interface that enables users to explore, query and visualize oceanographic data collected through the ARGO ocean observation system.
+
+**Key Features & Goals:**
+- Natural language interaction with oceanographic data.
+- Retrieval-Augmented Generation (RAG).
+- Vector-based semantic search using ChromaDB.
+- Database integration and data visualization.
+- Exploration of ARGO ocean datasets.
+
+**Tech Stack:** Python, PostgreSQL, RAG, ChromaDB, Streamlit, Plotly.
 
 ---
 

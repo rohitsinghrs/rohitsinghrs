@@ -92,44 +92,85 @@ I'm a Computer Science Engineering student passionate about building modern web 
 
 An AI-powered virtual try-on and personalized fashion recommendation platform designed to enhance the online shopping experience.
 
-**Key Features & Goals:**
-- Virtual clothing try-on experience.
-- AI-based style and fashion recommendations.
+**🔗 Project Links:**
+- 💻 [GitHub Repository](https://github.com/rohitsinghrs/V-Fit-AI)
+- 🌐 [Live Demo](http://localhost:3000/)
+
+**⚙️ Working Flow:**
+
+1. **User Authentication:** Users register or log in to access the platform.
+2. **Product Selection:** Users browse and select clothing or fashion products.
+3. **User Input:** Users provide the required images and preferences.
+4. **AI Processing:** The backend processes user inputs and handles AI-powered fashion features.
+5. **Virtual Try-On:** The system aims to generate a virtual preview of selected fashion products.
+6. **AI Recommendations:** Personalized fashion suggestions are provided based on user preferences.
+7. **Shopping Experience:** Users interact with products through the integrated shopping interface.
+
+**✨ Key Features:**
+- AI-powered virtual try-on.
+- Personalized fashion recommendations.
 - User authentication and profile management.
-- Product and shopping experience integration.
-- Interactive AI-powered assistance.
+- Product browsing and shopping integration.
+- AI-powered conversational assistance.
 
-**Tech Stack:** Next.js, React, FastAPI, Python, PostgreSQL, AI/ML.
+**🛠️ Tech Stack:** Next.js, React, FastAPI, Python, PostgreSQL, AI/ML.
 
----
 
 ### ♻️ 3. AI WasteWise — Intelligent Waste Classification
 
 An AI-powered image classification application that identifies different types of waste to support smarter waste segregation.
 
-**Key Features:**
+**🔗 Project Links:**
+- 💻 [GitHub Repository](https://github.com/rohitsinghrs/AI-WasteWise)
+- 🌐 [Live Demo](https://ai-wastewise-mjrh2un5zmbkth2ldsl3ha.streamlit.app/)
+
+**⚙️ Working Flow:**
+
+1. **Image Upload:** Users upload an image of a waste item.
+2. **Image Preprocessing:** The image is resized, normalized and prepared for model inference.
+3. **Model Processing:** The trained MobileNetV2 model analyzes the uploaded image.
+4. **Classification:** The model predicts the corresponding waste category.
+5. **Prediction Output:** The application displays the predicted class and classification result.
+6. **User Interface:** Results are presented through an interactive Streamlit interface.
+
+**✨ Key Features:**
 - Image-based waste classification.
 - Six waste categories: Cardboard, Glass, Metal, Paper, Plastic and Trash.
 - MobileNetV2-based transfer learning.
 - Image preprocessing and model evaluation.
-- Interactive application interface.
+- Interactive Streamlit application.
 
-**Tech Stack:** Python, TensorFlow, MobileNetV2, Machine Learning, Streamlit.
+**🛠️ Tech Stack:** Python, TensorFlow, MobileNetV2, Machine Learning, Streamlit.
 
----
 
 ### 🌊 2. FloatChat — AI-Powered ARGO Ocean Data Discovery
 
 An intelligent conversational interface that enables users to explore, query and visualize oceanographic data collected through the ARGO ocean observation system.
 
-**Key Features & Goals:**
+**🔗 Project Links:**
+- 💻 [GitHub Repository](YOUR_FLOATCHAT_REPOSITORY_LINK)
+- 🌐 [Live Demo](YOUR_FLOATCHAT_LIVE_DEMO_LINK)
+
+**⚙️ Working Flow:**
+
+1. **Data Collection:** ARGO oceanographic datasets are collected from available data sources.
+2. **Data Processing:** NetCDF/CSV data is processed and transformed into a structured format.
+3. **Database Storage:** Processed oceanographic measurements are stored in PostgreSQL.
+4. **User Query:** Users ask questions about oceanographic data using natural language.
+5. **Query Understanding:** The system interprets the user's question and identifies the required information.
+6. **Data Retrieval:** SQL queries and semantic search retrieve relevant oceanographic information.
+7. **AI Response Generation:** RAG retrieves relevant context and helps generate meaningful responses.
+8. **Visualization:** Results are presented through interactive charts, maps and data visualizations.
+
+**✨ Key Features:**
 - Natural language interaction with oceanographic data.
 - Retrieval-Augmented Generation (RAG).
-- Vector-based semantic search using ChromaDB.
-- Database integration and data visualization.
-- Exploration of ARGO ocean datasets.
+- Semantic search using ChromaDB.
+- PostgreSQL database integration.
+- Interactive ocean data visualization.
+- Location-based ARGO data exploration.
 
-**Tech Stack:** Python, PostgreSQL, RAG, ChromaDB, Streamlit, Plotly.
+**🛠️ Tech Stack:** Python, PostgreSQL, RAG, ChromaDB, Streamlit, Plotly, LLMs.
 
 ---
 
